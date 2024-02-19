@@ -1,4 +1,4 @@
-# python-yazılım-kursu
+# python-yazilim-kursu
 Python Yazılım Kursu
 
 Modül 1: Python Core genel bakış

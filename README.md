@@ -1,30 +1,149 @@
-# python-ne-is-yapar
-Python Ne İş Yapar ?
+# python-yazılım-kursu
+Python Yazılım Kursu
 
-Python Ne İş Yapar ?
-Python Ne İş Yapar ?  Birçok alanda kullanılabilen genel amaçlı bir programlama dilidir. Web geliştirme, veri analizi, yapay zeka, bilimsel hesaplama, oyun geliştirme ve sistem yönetimi gibi çeşitli alanlarda kullanılabilen bir programlama dilidir. Basit ve okunabilir söz dizimi sayesinde, acemi programcılar ve deneyimli geliştiriciler tarafından tercih edilir. Python dilinde yazılan programlar, çeşitli işlevleri yerine getirebilir ve modern yazılım geliştirmenin önemli bir unsuru haline gelmiştir.
+Modül 1: Python Core genel bakış
 
-Kurslarımızda Neler Öğreneceksiniz?
-Web Geliştirme: HTML, CSS, JavaScript, PHP ve Python gibi dillerle web siteleri ve uygulamaları geliştirme.
-Makine Öğrenmesi: Verilerden örüntüler ve anlamlar çıkarma, tahminler ve öngörüler yapma.
-Oyun Geliştirme: Unity, Unreal ayrıca Engine gibi motorlarla 2D ve 3D oyunlar oluşturma.
-Bilgisayar Görüşü: Görüntü ayırca video analizi ve yorumlama.
-Webden Veri Toplama: Web sayfalarından veri toplama ayrıca analiz etme.
-Raspberry Pi Projeleri: Raspberry Pi gibi cihazlarla elektronik projeler geliştirme.
-Tarayıcı Otomasyonu: Selenium WebDriver gibi araçlarla web tarayıcılarını otomatikleştirme.
-GUI Geliştirme: Tkinter, PyQt gibi araçlarla grafiksel kullanıcı arayüzleri oluşturma.
-Veri Bilimi: Verileri analiz etme, görselleştirme ve yorumlama için Python, R gibi diller kullanma.
-Yapay Zeka: Yapay zeka algoritmaları ayrıca modelleriyle problem çözme.
-Büyük Veri İşleme: Spark, Hadoop gibi araçlarla büyük veri kümelerini analiz etme.
-Mobil Uygulama Geliştirme: Java, Kotlin gibi dillerle Android ve iOS uygulamaları oluşturma.
-Python ile Mobil Uygulamalar: Kivy, kivyMD gibi kütüphanelerle Python kullanarak mobil uygulamalar geliştirme.
-Detaylı eğitim müfredatı için tıklayınız.
+Python Giriş
+Python Kurulumui Python Versiyonları
+Notebook ve Google Colab
+Pycharm, Pip
+Değişkenler,String Metotları
+Gömülü Fonksiyonlar
+En Çok Kullanılan Gömülü Fonksiyonlar
+Fonksiyon ve Metotların Farkı
+Listeler ve Demetler
+Liste Metotları
+Sözlükler
+Dict Metotları
+IF , ELIF , Else Koşulları
+For Döngüsü
+While Döngüsü
+Kütüphane , Modül ve Frameworks Kavramları
+Random Kütüphanesi
+Datetime Kütüphanesi
+Request Kütüphanesi
+Fonksiyonlar
+Pycharm Editörü
+Terminal Kavramı
+Temel Terminal Komutları
+Streamlit
 
+Streamlit Kurulumu
+Streamlit ile Web Tabanlı Arayüz Tasarlama
+Streamlit Metotları
+Streamlit Yayınlama
+Python Api Entegrasyonu
+
+Json Kodlama Dili
+XML Kodlama Dili
+JSON ile API entegrasyonu
+XML ile API entegrasyonu
+Modül 2: Veri Tabanı
+
+SQLite Veri Tabanı
+Veri Tabanı Oluşturma
+Tablo Oluşturma
+CRUD İşlemleri
+INSERT
+SELECT
+DELETE
+UPDATE
+WHERE
+LIKE
+AND ve OR
+Sqlite Browser
 Hemen Başvur
 
-Arı Bilgi Bilişim Teknolojileri Akademisi Farkı:
-Deneyimli Eğitmen Kadrosu: Alanında uzman ve deneyimli eğitmenlerimiz ile teorik bilgileri pratik uygulamalarla pekiştirerek kursumuzdan başarılı bir şekilde ayrılırsınız.
-Uygulamalı Eğitim: Kurs boyunca gerçek hayattan projeler üzerinde çalışarak öğrendiklerinizi pekiştirme ve portfolyo oluşturma imkanı bulabilirsiniz. Sonuç olarak kurs sonunda sadece öğrenmekle kalmamış olursunuz.
-Güncel Müfredat: Sektördeki güncel gelişmeleri takip eden müfredatımız ile en son teknolojileri ve trendleri öğrenirsiniz. Sonuç olarak yeni teknolojilerden ayrıca trendlerden uzak kalmazsınız.
-İş ve Staj Desteği: Kursun sonunda CV hazırlama ve iş görüşmesine katılım gibi konularda da destek sağlıyoruz. Sonuç olarak iş hayatına hızlı bir giriş yapabilirsiniz ayrıca sizlere bünyemiz altında veya anlaşmalı olduğumuz kurumlarda staj imkanı da sunuyoruz.
-Teknolojinin sunduğu sınırsız imkanlara adım atmaya ve hayalinizdeki kariyere ilk adımı atmaya hazır mısınız? Arı Bilgi Bilişim Teknolojileri Akademisi’nin teknoloji kurslarına kaydolarak geleceğe uçabilirsiniz.
+Modül 3: Python ile Nesne Tabanlı Programlama
+
+Nesne Tabanlı Programlama Nedir
+Neden OOP İhtiyaç Duyulur
+Sınıf ve Nesneler
+Metot Oluşturma
+Yapıcı Metotlar
+Miras Alma
+Kapsülleme
+Veri Analizi Numpy
+
+Numpy Nedir ?
+Vektörel İşlemler Nedir ?
+Numpy Vektörleri
+Numpy Matrisleri
+Matris Metotları
+Vektör Metotları
+Matrislerde Dört İşlem
+Matrislerde Filtreleme
+Matrislerde Birleştirme
+Matris Oluşturma Metotları
+Veri Analizi Pandas
+
+Pandas Nedir ?
+Pandas Veri Tipleri
+DataFrame Nedir ?
+DataFrame Oluşturma
+Pandas Serileri
+Index ve Columns Kavramları
+Pandas Metotları
+Seri Metotları
+DataFrame Metotları
+Group İşlemleri
+CSV ile DataFrame oluşturma
+XLSX ile DataFrame Oluşturma
+SQL ile DataFrame Oluşturma
+DF Filtreleme İşlemleri
+DF Stack
+Pandas ile Veri Analizi
+Kaggle Platformu
+Pandas ile csv ve xlsx Çıktı Alma
+Data Preprocessing
+Data Normalleştirme
+Dummies
+Dönüşümler
+Veri Görselleştirme
+
+Matplotlib Kütüphanesi Kurulumu
+Scatter Grafiği
+Plot Grafiği
+Bar Grafiği
+Pie Grafiği
+Stack Grafiği
+Grafik Kişiselleştirme
+Grafik Ayarları
+Modül 4: Django ile Web Yazılımları
+
+Frontend , Backend , FullStack Kavramları
+UX - UI Tasarım Nedir ?
+Web App Nedir ?
+Temel HTML Eğitimi
+Temel CSS Eğitimi
+Temel Bootstrap Eğitimi
+Django Kurulumu
+Django Admin Paneli Oluşturma
+Django ile MVT Yapısı
+Django Model Oluşturma
+Django Template Oluşturma
+Django View Oluşturma
+Django ile Dinamik İçerik Oluşturma
+Admin Paneli İçerik Entegrasyonları
+Kullanıcı Rolleri
+Hemen Başvur
+
+Modül 5: Makina Öğrenmesi (Yapay Zeka)
+
+Makina Öğrenmesi Nedir ?
+Makina Öğrenmesi Temek Kavramlar
+SkLearn Kütüphanesi
+Regresyon Kavramı
+Sınıflandırma Kavramı
+Liner Regresyon
+Multi Liner Regresyon
+Ridge Regresyon
+Lasso Regresyon
+ElasticNet
+Logistic Regresyon
+Decision Tree Algoritması
+Random Forest Algoritması
+KNN Algoritması
+Facebook Prophet
+Facebook Prophet ile Zamana Bağlı Tahminler
+Facebook Prophet Görselleştirme
